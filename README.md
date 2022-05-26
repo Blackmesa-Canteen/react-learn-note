@@ -1,5 +1,5 @@
 # react-learn-note
-from bilibili React入门到实战(2022全网最新). https://www.bilibili.com/video/BV1Z44y1K7Fj?p=44
+from bilibili React入门到实战(2022全网最新). https://www.bilibili.com/video/BV1Z44y1K7Fj
 
 react + hook + react-router-v6 + mobx + antD  
 
